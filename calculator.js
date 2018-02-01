@@ -1,8 +1,8 @@
 "use strict";
 var args= process.argv.slice(2);
-var n1= args[0];
-var op= args[1];
-var n2= args[2];
+var n1= args[0]
+var op= args[1]
+var n2= args[2]
 if(args.length==3){
     switch(op){
             case'mas':
